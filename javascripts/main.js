@@ -5,12 +5,12 @@ $(function(){
       delayOut:700,
       handlerIn: function($element){
           console.log('in started');
-          $element.animate({backgroundColor: '#FF0000'});  
+          $element.css({backgroundColor: '#FF0000'});  
           console.log('in finished');
       },
       handlerOut: function($element){
           console.log('out started');
-          $element.animate({backgroundColor: '#0000FF'});  
+          $element.css({backgroundColor: 'auto'});  
           console.log('out finished');
       }
   });  

@@ -245,3 +245,6 @@ a {
 .cf {
   zoom:1;
 }
+#demo-container {padding:10px 20px;background-color:#666666;}
+#demo-menu {margin:0;}
+#demo-menu li {cursor:pointer;padding:5px;}
