@@ -1,3 +1,4 @@
+console.log('hoverDelay.js is here!');
 $(function(){
   $('#demo-menu li').hoverDelay({
       delayIn: 200,
