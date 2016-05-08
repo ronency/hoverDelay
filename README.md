@@ -1,5 +1,6 @@
 # jQuery.hoverDelay.js
-============================
+
+Check the [demo page](http://ronency.github.io/hoverDelay/)
 
 ### What?
 hoverDelay.js is a small and useful jQuery plugin that provides the very commonly wanted effect of "hover", but with configurable delay for the "in" and "out" events.
